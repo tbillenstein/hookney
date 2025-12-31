@@ -16,8 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/belexos/hookney.git"
+    "url": "https://github.com/tbillenstein/hookney.git"
   },
+  "bugs": {
+    "url": "https://github.com/tbillenstein/hookney/issues"
+  },
+  "homepage": "https://github.com/tbillenstein/hookney#readme",
   "keywords": [
     "json",
     "self",
@@ -35,9 +39,8 @@
     "from file",
     "from string"
   ],
-  "author": "Br00ze <br00ze@belexos.com> (http://belexos.com)",
+  "author": "tbillenstein <tb@thomasbillenstein.com> (https://thomasbillenstein.com)",
   "license": "MIT",
-  "homepage": "https://github.com/belexos/hookney#readme",
   "nyc": {
     "exclude": [
       "**/*Spec.js"
