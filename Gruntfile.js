@@ -1,9 +1,9 @@
 /**
  * Hookney - Helper around self referencing JSON objects for Node.js and the browser.
  *
- * @copyright: Copyright (c) 2016-present, Belexos
+ * @copyright: Copyright (c) 2016-present, tbillenstein
  *
- * @author: Br00ze <br00ze@belexos.com> (http://belexos.com)
+ * @author: tbillenstein <tb@thomasbillenstein.com> (https://thomasbillenstein.com)
  *
  * @license This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -21,7 +21,7 @@ module.exports = function(grunt)
 		terser: {
 			options: {
 				output: {
-					preamble: '/*! <%= pkg.name %> V<%= pkg.version %>, Copyright (c) 2016-present, Belexos. MIT licensed. */',
+					preamble: '/*! <%= pkg.name %> V<%= pkg.version %>, Copyright (c) 2016-present, tbillenstein. MIT licensed. */',
 					comments: false
 				}
 			},

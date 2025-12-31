@@ -27,8 +27,8 @@ const Hookney = require('hookney');
 `Hookney` has a single dependency to [lodash](https://lodash.com/), which must be loaded before using `Hookney`.
 
 You can download the latest release from the repository
-* [`hookney.js`](https://github.com/belexos/hookney/blob/master/hookney.js) unminified, including comments
-* [`hookney.min.js`](https://github.com/belexos/hookney/blob/master/hookney.min.js) minified version
+* [`hookney.js`](https://github.com/tbillenstein/hookney/blob/master/hookney.js) unminified, including comments
+* [`hookney.min.js`](https://github.com/tbillenstein/hookney/blob/master/hookney.min.js) minified version
 
 Load [lodash](https://lodash.com/) from a CDN or any other source.
 ```html
@@ -257,7 +257,7 @@ for details.
 
 More examples
 -------------
-Please refer to the [test spec](https://github.com/belexos/hookney/blob/master/spec/HookneySpec.js) for more examples.
+Please refer to the [test spec](https://github.com/tbillenstein/hookney/blob/master/spec/HookneySpec.js) for more examples.
 
 
 Testing
@@ -287,7 +287,7 @@ Build
 
 Contribution
 ------------
-Please use [Github issues](https://github.com/belexos/hookney/issues) for requests.
+Please use [Github issues](https://github.com/tbillenstein/hookney/issues) for requests.
 
 Pull requests are welcome.
 
@@ -306,8 +306,8 @@ in the issue which will reproduce the bug.
 
 Support
 -------
-* Send us an email: [support@belexos.com](mailto:support@belexos.com)
-* Follow us on Twitter: [@belexos](http://twitter.com/belexos)
+* Send us an email: [tb@thomasbillenstein.com](mailto:tb@thomasbillenstein.com)
+* Follow us on Twitter: [@tbillenstein](https://x.com/tbillenstein/)
 
 
 Changelog
@@ -342,5 +342,5 @@ v1.0.0
 
 License
 -------
-Copyright (c) 2016-present, Belexos. `Hookney` is licensed under the 
-[MIT License](https://github.com/belexos/hookney/blob/master/LICENSE).
+Copyright (c) 2016-present, tbillenstein. `Hookney` is licensed under the 
+[MIT License](https://github.com/tbillenstein/hookney/blob/master/LICENSE).
